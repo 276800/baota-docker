@@ -46,7 +46,7 @@
 
 ### 3 **注意**：部署后务必先修改如上信息！！！或者修改代码后自行构建使用！！！以防止被利用！！！
 
-镜像仓库地址：[暂时没有后期推送]()
+镜像仓库地址：[https://hub.docker.com/repository/docker/kissgun/baota](https://hub.docker.com/repository/docker/kissgun/baota)
 
 代码仓库地址：[https://github.com/kissgun258/baota-docker](https://github.com/kissgun258/baota-docker)
 
@@ -59,7 +59,7 @@
 ```bash
 services:
   baota:
-    image: 暂时没有，后期推送
+    image: kissgun/baota
     container_name: baota
     privileged: true
     network_mode: host
