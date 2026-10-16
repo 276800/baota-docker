@@ -35,14 +35,6 @@
 
 ### 3 **注意**：部署后务必先修改如上信息！！！或者修改代码后自行构建使用！！！以防止被利用！！！
 
-镜像仓库地址：[https://hub.docker.com/r/kissgun/baota](https://hub.docker.com/r/kissgun/baota)
-
-代码仓库地址：[https://github.com/kissgun258/baota-docker](https://github.com/kissgun258/baota-docker)
-
-
-
-
-
 ## 四、通过 docker-compose.yml运行
 
 ```bash
